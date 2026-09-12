@@ -1,1 +1,24 @@
-/* Add your styles here. */
+p {
+    padding: 20px;
+    border: 1px solid #301934;
+    margin: 60px;
+}p {
+    color: #301934;
+}
+.bold {
+    font-weight: bold;
+}
+#top {
+    color: #301934;
+}
+a {
+    color: #301934;;
+}
+a:hover {
+    background-color: #f2d6d9;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
