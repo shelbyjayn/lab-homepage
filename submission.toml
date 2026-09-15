@@ -1,7 +1,7 @@
 [evidence]
 site_url = "https://shelbyjayn.github.io/lab-homepage/"
-archive_url = "https://web.archive.org/web/..."
+archive_url = "https://web.archive.org/web/20260915164945/https://shelbyjayn.github.io/lab-homepage/"
 backlink_urls = [
-  "https://first-other-domain.example/page",
-  "https://second-other-domain.example/page",
+  "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
+  "https://www.dtsa.mil/SitePages/default.aspx",
 ]
