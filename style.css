@@ -60,3 +60,7 @@ th {
 body {
     background-color: #fce4ec;
 }
+body {
+    background-color: #fce4ec;
+    background-image: radial-gradient(circle, transparent 20px, #fce4ec 21px);
+}
