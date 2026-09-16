@@ -2,16 +2,16 @@ p {
     padding: 10px;
     border: 1px solid #301934;
     margin: 15px 0;
-    color: #b89ebc;
+    color: #301934;
 }
 .bold {
     font-weight: bold;
 }
 #top {
-    color: #ebcaf1;
+    color: #301934;
 }
 a {
-    color: #c0b0c3;
+    color: #301934;
 }
 a:hover {
     background-color: #f2d6d9;
